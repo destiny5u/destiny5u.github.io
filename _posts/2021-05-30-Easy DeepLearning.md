@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Easy DeepLearning"
+---
+
 # 서평. 쉬운 딥러닝
 
 생능출판에서 2021년 4월에 출간된 책이다. 총 256쪽이며, 얇은 책이다.
