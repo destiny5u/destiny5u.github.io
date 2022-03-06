@@ -1,6 +1,6 @@
-# 서평. 쉬운 딥러닝
+# 서평. 깡샘의 안드로이드 앱프로그래밍 with 코틀린
 
-생능출판에서 2021년 4월에 출간된 책이다. 총 256쪽이며, 얇은 책이다. [상세보기](http://www.yes24.com/Product/Goods/99552196)
+이지스퍼블리싱에서 2022년 1월에 출간된 책이다. 총 710쪽이다. [상세보기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163033301&orderClick=LEa&Kc=)
 
 
 
