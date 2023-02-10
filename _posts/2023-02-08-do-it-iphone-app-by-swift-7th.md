@@ -1,6 +1,6 @@
-# 서평. 깡샘의 안드로이드 앱프로그래밍 with 코틀린
+# 서평. Do it! 스위프트로 아이폰 앱 만들기: 입문
 
-이지스퍼블리싱에서 2022년 1월에 출간된 책이다. 총 710쪽이다. [상세보기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163033301&orderClick=LEa&Kc=)
+이지스퍼블리싱에서 2023년 01월 20일에 출간된 책이다. [상세보기](https://product.kyobobook.co.kr/detail/S000200662199)
 
 
 
